@@ -1,0 +1,22 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenRandomTP"
+
+# Tutaj mozna wyznaczyc do jakiej odleglosci ma tepac graczy przy RandomTP:
+max_teleport_size: 3000
+
+# Tutaj mozna ustawic do jakiej wysokosci Y ma tepac graczy:
+# Nie polecam tego pluginu uzywac jesli twoj swiat ma default bukkit world.
+# Pamietaj ze przy podawaniu max Y, nalezy stosowac wielkosc 0.0.
+max_y_size: 65.0
+
+# Tutaj mozna ustawic block ktory ma sluzyc do RandomTP dla jednego gracza:
+single_player_rantomtp: "SPONGE"
+
+# Tutaj mozna ustawic block ktory ma sluzyc do RandomTP dla wiekszej ilosci graczy:
+group_player_teleport: "JUKEBOX"
+
+# Tutaj mozna ustawic odleglosc teleportacji graczy od bloku grupowego tp:
+grouptp_size: 3
+
+# Tutaj mozna wlaczyc/wylaczyc informacje o pluginie:
+plugin_info: true
